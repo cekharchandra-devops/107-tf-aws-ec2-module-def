@@ -11,3 +11,8 @@
 * public_ip: (string)
 * private_ip: (string)
 * instance_id: (string)
+
+# Advanages:
+
+* code reuse: mutliple teams can use same definition
+* restiction : we can restrict the teams not to create resource with their own configuration.
